@@ -91,11 +91,11 @@ Stay tuned and contribute your ideas to help improve the tracker!
    ```bash
    streamlit run app.py
 
-###Usage
-Enter your username to sign in or auto-create your profile.
-Add income and expense transactions with relevant details.
-Monitor your financial health on the dashboard with visual charts and budget progress.
-Import or export transaction data to keep backups or update in bulk.
+### Usage
+- Enter your username to sign in or auto-create your profile.
+- Add income and expense transactions with relevant details.
+- Monitor your financial health on the dashboard with visual charts and budget progress.
+- Import or export transaction data to keep backups or update in bulk.
 
-###Contributing
+### Contributing
 Contributions are warmly welcomed! Please open issues or submit pull requests with your improvements, bug fixes, or feature suggestions.
