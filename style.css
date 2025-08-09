@@ -1,0 +1,33 @@
+/* basic dark + pink theme for Streamlit elements */
+body {
+    background-color: #000000;
+    color: #ff69b4;
+}
+.stApp {
+    background-color: #000000;
+}
+.stButton>button {
+    background-color: #ff69b4 !important;
+    color: #000 !important;
+    border-radius: 8px !important;
+}
+.st-b7 {
+    color: #ff69b4;
+}
+.css-1lcbmhc .st-c2 { color: #ff69b4; }
+
+/* table / dataframe tweaks */
+[data-testid="stDataFrameContainer"] {
+    background: transparent;
+    color: #ff69b4;
+}
+
+/* small input style */
+.stTextInput>div>input, .stNumberInput>div>input, .stDateInput>div>input {
+    background: #0b0b0b;
+    color: #ffb6c1;
+    border: 1px solid #2b2b2b;
+}
+
+/* metric tweaks */
+.css-1avcm0n e1tzin5v0 { color: #ff69b4; }
